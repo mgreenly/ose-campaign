@@ -1,6 +1,6 @@
 # OSE Campaign
 
-A D&D Campaign for Old School Essentials (OSE) rules.
+A **Classic Adventure Game** using Old School Essentials (OSE) rules.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The campaign begins in **Crownfoot**, a sparsely populated northern region in th
 
 ### Starting Location
 
-The party begins their adventure at **The Copper Kettle**, a tavern located between the foothills and the small city of **Greyford**. The city sits at a ford crossing the **Coldrun River**.
+The party begins their adventure at **The Copper Kettle**, a tavern in **Greyford**, a village located between the foothills and civilisation. Greyford sits at a ford crossing the **Coldrun River**.
 
 ### Starting Level and Party Size
 
