@@ -2,7 +2,7 @@
 
 ### Summary of Classic Adventure Gaming
 
-Classic Adventure Gaming is a style of play distinct from modern "roleplaying games" (RPGs), rooted in the principles of early editions like the 1st Edition AD&D rulebooks. It prioritizes player skill, strategic gameplay, and emergent outcomes over collaborative storytelling and character impersonation.
+Classic Adventure Gaming is a style of play distinct from modern "roleplaying games" (RPGs), rooted in the principles of early editions. It prioritizes player skill, strategic gameplay, and emergent outcomes over collaborative storytelling and character impersonation.
 
 Key tenets include:
 
